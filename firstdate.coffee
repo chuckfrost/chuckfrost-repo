@@ -1,4 +1,4 @@
-# Hubot will take you to URL "Jules and Chachi's first date"
+# Hubot will take you to URL "Jules and Chachi's first date animation"
 #
 # hubot <take me on a date>
 
